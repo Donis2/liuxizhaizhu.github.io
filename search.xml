@@ -4,6 +4,25 @@
   
     
     <entry>
+      <title>测试</title>
+      <link href="blog/%E6%B5%8B%E8%AF%95/"/>
+      <url>blog/%E6%B5%8B%E8%AF%95/</url>
+      
+        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><h1 id="z"><a href="#z" class="headerlink" title="z"></a>z</h1><p>这是个测试</p><figure class="highlight html"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><span class="line"><span class="tag">&lt;<span class="name">a</span> <span class="attr">herf</span>=<span class="string">&quot;asdfjhl&quot;</span>&gt;</span>测试<span class="tag">&lt;/<span class="name">a</span>&gt;</span></span><br><span class="line"></span><br></pre></td></tr></table></figure><p><img src="D:\hexo\butterfly\Hexo-butterfly-demo\source\_posts\测试\image-20230410112528805.png" alt="image-20230410112528805"></p>]]></content>
+      
+      
+      
+        <tags>
+            
+            <tag> 测试 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>纪灵均祭</title>
       <link href="blog/%E7%BA%AA%E7%81%B5%E5%9D%87%E8%AE%B0/"/>
       <url>blog/%E7%BA%AA%E7%81%B5%E5%9D%87%E8%AE%B0/</url>
